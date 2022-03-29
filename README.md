@@ -3,6 +3,8 @@
 Repositorio para trabajos de la universidad
 
 Jorge Hernan Moreno Linares - 20221099021
+Diagrama de clases:
 
-![image](https://user-images.githubusercontent.com/28155253/160516837-90a6047a-8f4c-4304-b10f-16392b554193.png)
+![image](https://user-images.githubusercontent.com/28155253/160517144-58829d8b-f949-4375-9046-16705a708422.png)
 
+Diagrama de secuencia:
