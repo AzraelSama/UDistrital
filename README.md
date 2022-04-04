@@ -12,4 +12,4 @@ Jorge Hernan Moreno Linares - 20221099021
 
 ![image](https://user-images.githubusercontent.com/28155253/160521329-c75fa68f-b247-47bb-8b1f-0d73340a6bbd.png)
 
-El decorador se convirtió en 
+El decorador se convirtió en Builder para crear representaciones distintas del objeto
